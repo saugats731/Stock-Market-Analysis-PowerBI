@@ -32,4 +32,4 @@ This project is a dynamic Power BI dashboard designed to analyze stock market pe
     * Go to **Home** > **Transform Data** > **Edit Parameters**.
     * Enter a new valid Ticker Symbol (e.g., `GOOGL`, `TSLA`).
     * Click **OK**.
-4.  **Crucial Step:** A yellow banner will appear at the top of the canvas. Click **"Apply Changes"** to fetch the new data.
+4.  **Crucial Step:** A light red banner will appear at the top of the canvas. Click **"Apply Changes"** to fetch the new data.
