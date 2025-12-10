@@ -28,4 +28,8 @@ This project is a dynamic Power BI dashboard designed to analyze stock market pe
 ## How to Use This Project
 1.  **Download** the `Dynamic_Stock_Dashboard.pbix` file from the file list above.
 2.  Open in **Power BI Desktop**.
-3.  Go to **Home > Transform Data > Edit Parameters** to change the ticker symbol.
+3.  To change the company being analyzed:
+    * Go to **Home** > **Transform Data** > **Edit Parameters**.
+    * Enter a new valid Ticker Symbol (e.g., `GOOGL`, `TSLA`).
+    * Click **OK**.
+4.  **Crucial Step:** A yellow banner will appear at the top of the canvas. Click **"Apply Changes"** to fetch the new data.
