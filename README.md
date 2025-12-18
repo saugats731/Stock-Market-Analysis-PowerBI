@@ -33,3 +33,4 @@ This project is a dynamic Power BI dashboard designed to analyze stock market pe
     * Enter a new valid Ticker Symbol (e.g., `GOOGL`, `TSLA`).
     * Click **OK**.
 4.  **Crucial Step:** A light red banner will appear at the top of the canvas. Click **"Apply Changes"** to fetch the new data.
+5.  **Important Note:** When running inside Power BI Desktop, you must use **Ctrl + Click** to activate buttons (e.g., Time Period selectors) or follow navigation links.
